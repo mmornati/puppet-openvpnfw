@@ -1,4 +1,4 @@
 puppet-openvpnfw
 ================
 
-OpenVPN Firewall Rules
+Rules for iptables to allow OpenVPN connections
